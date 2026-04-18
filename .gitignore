@@ -1,0 +1,6 @@
+# Local config
+*.local*
+.env
+
+# Claude Code local config
+.claude/
